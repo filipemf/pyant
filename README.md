@@ -1,5 +1,5 @@
 # Pyant (Python+Paint)
-<img alt="Pyaint" title="pyaint" src=".images/pyaint.png" width="851px" height="740px"/>
+<img alt="Pyaint" title="pyaint" src="images/pyaint.png" width="851px" height="740px"/>
 
 ## Tecnologias
 
